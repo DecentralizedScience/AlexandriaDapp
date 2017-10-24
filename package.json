@@ -6,7 +6,7 @@
     "test": "embark test"
   },
   "author": "",
-  "license": "ISC",
+  "license": "AGPLv3",
   "homepage": "",
   "devDependencies": {
     "embark": "^2.5.2",
